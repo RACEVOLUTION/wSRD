@@ -34,3 +34,7 @@ https://www.youtube.com/watch?v=R60TLH-ZNk8
 
 The PCB can be produced by any manufacturer using the Gerber folder. (JLCPCB, PCBWAY, etc.).
 To do this, simply pack the Gerber folder as a zip file and upload it to the appropriate manufacturer.
+
+<h4>SD Card</h4>
+
+Make sure that your SD card is not larger than 32GB and formatted as FAT32.
