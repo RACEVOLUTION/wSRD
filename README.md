@@ -29,3 +29,8 @@ https://www.youtube.com/watch?v=R60TLH-ZNk8
 
 1x Nextion Display NX4832K035
 
+
+<h4>PCB</h4>
+
+The PCB can be produced by any manufacturer using the Gerber folder. (JLCPCB, PCBWAY, etc.).
+To do this, simply pack the Gerber folder as a zip file and upload it to the appropriate manufacturer.
